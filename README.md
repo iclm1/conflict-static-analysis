@@ -25,7 +25,7 @@ Current supported algorithms:
 
 ### Build
 
-To build the project, you will need Maven and Java 8 (or higher).
+To build the project, you will need Maven and Java 8 .
 
 You will need create a token on [GitHub](https://docs.github.com/pt/github/authenticating-to-github/creating-a-personal-access-token) to authenticate the use of the dependencies. Check the token's permissions.
 
